@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tiangolo/dockerswarm.rocks/commit/c504a4b34d7babd970771255c4e1a57f710ee4dc",
       "git:hexsha": "c504a4b34d7babd970771255c4e1a57f710ee4dc",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/tiangolo/dockerswarm.rocks/commit/e34029b3d36d5291f6e3665621bd95e830d9a3ca",
