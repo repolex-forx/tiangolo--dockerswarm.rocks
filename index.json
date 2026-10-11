@@ -1,0 +1,11 @@
+{
+  "org": "tiangolo",
+  "repo": "dockerswarm.rocks",
+  "versions": [
+    {
+      "commit": "c504a4b34d7babd970771255c4e1a57f710ee4dc",
+      "tag": "",
+      "parsed_at": "2026-10-11T19:41:45.995199+00:00"
+    }
+  ]
+}
